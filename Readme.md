@@ -27,4 +27,5 @@ Our vision is to eliminate election fraud and increase transparency by leveragin
 - **Tools:** MetaMask, Ganache, Remix IDE
 
 contract address:0xe3f3625f3e9294fDC3BBe487aBc6C683F437e7d5
-<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3e753340-eca8-4901-9c56-36831f935ba7" />
+![WhatsApp Image 2025-10-30 at 3 56 23 PM](https://github.com/user-attachments/assets/0a22714b-2665-4311-945d-1f7271683904)
+
